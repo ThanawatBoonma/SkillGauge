@@ -1,6 +1,6 @@
 # SkillGauge
 SkillGauge
-# EduSync - ทีม SkillGauge
+# ทีม SkillGauge
 
 ## 👥 Team Members
 1. 66024873 ชื่อ นาย ธนวัฒน์ บุญมา (Backend)
